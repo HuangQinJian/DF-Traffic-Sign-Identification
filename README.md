@@ -390,3 +390,5 @@ CUDA_VISIBLE_DEVICES=5  python demo/predict.py
 **七、结束语**
 
  1. 若有修改`maskrcnn-benchmark`文件夹下的代码，一定要重新编译！一定要重新编译！一定要重新编译！
+ 
+ 2. 欢迎大家关注我的 [CSDN](https://huangqinjian.blog.csdn.net/)，干货满满！
